@@ -1,10 +1,8 @@
-import org.english;
+package org.english;
 
 import org.german.German;
-
-
 public class English extends German {
     public void englishLanguage(){
-        System.out.println("English: Hello!")
+        System.out.println("English: Hello!");
     }
 }

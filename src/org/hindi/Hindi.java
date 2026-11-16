@@ -1,4 +1,4 @@
-import org.hindi;
+package org.hindi;
 
 import org.english.English;
 

@@ -12,9 +12,9 @@ public class LanguageClass extends Hindi{
         var language = new LanguageClass();
 
         language.allLanguage();
-        languages.germanLanguage();
-        languages.englishLanguage();
-        languages.hindiLanguage()
+        language.germanLanguage();
+        language.englishLanguage();
+        language.hindiLanguage();
 
     }
 }
