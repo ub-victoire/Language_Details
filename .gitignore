@@ -1,0 +1,14 @@
+# Java bytecode and build output
+*.class
+out/
+bin/
+target/
+
+# Editor backups and swap files
+*~
+*.java.save
+*.swp
+*.swo
+
+# Logs
+*.log
